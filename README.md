@@ -26,5 +26,6 @@ This project includes Intrack, an integrated issue tracking system that helps yo
 - Track issues through their entire lifecycle
 - Monitor progress until resolution
 - Maintain a history of resolved issues
+- Ensure timely updates and notifications
 
 The Intrack system is designed to streamline your project management workflow and ensure that no issues fall through the cracks.
